@@ -9,6 +9,7 @@ eq_3 = 1 == 2
 eq_4 = 2 == 2
 eq_5 = 2>=2
 eq_6 = 2<=2
+!= # не равно
 
 puts name
 puts add 
